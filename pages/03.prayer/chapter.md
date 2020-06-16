@@ -1,7 +1,11 @@
 ---
 title: Prayer
 date: '03:55 16-06-2020'
+taxonomy:
+    category: docs
 child_type: docs
 ---
 
-This is a prayer page for prayer
+# Prayer
+
+A collection of prayers & services.

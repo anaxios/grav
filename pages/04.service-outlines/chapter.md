@@ -1,12 +1,10 @@
 ---
-title: 'Service Outlines'
+title: Outlines
 date: '04:43 16-06-2020'
 taxonomy:
     category: docs
 ---
 
-### Chapter Number
+# Service Outlines
 
-# Chapter Title
-
-Chapter description.
+A collection of outlines for the services.
