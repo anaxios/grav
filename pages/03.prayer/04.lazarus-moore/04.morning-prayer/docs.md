@@ -6,6 +6,8 @@ taxonomy:
         - docs
 ---
 
+WIP
+
 On rising, make the sign of the Cross and say:In the Name of the Father, and of the Son, and of
 the Holy Spirit. Amen. Glory to Thee, our God, glory to Thee. Heavenly King, Comforter, Spirit of Truth, Who art
 everywhere present and fillest all things, Treasury of good gifts and Giver of Life, come

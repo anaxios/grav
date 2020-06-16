@@ -6,7 +6,7 @@ taxonomy:
         - docs
 ---
 
-by [St Basil the Great](../)
+by [St Basil the Great](../../holy-fathers/st-basil-the-great)
 - To interrogate without earnestness
 - To Answer without desire of display
 - Not to interrupt a profitable speaker

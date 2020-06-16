@@ -6,7 +6,7 @@ taxonomy:
         - docs
 ---
 
-by [Evagrius the Solitary](../) 
+by [Evagrius the Solitary](../../holy-fathers/evagrius-the-solitary) 
 
 Of the demons opposing us in the practice of the ascetic life, there are three groups who fight in the front line: those entrusted with the appetites of gluttony, those who suggest avaricious thoughts, and those who incite us to seek the esteem of men. All the other demons follow behind and in their turn attack those already wounded by the first three groups. For one does not fall into the power of the demon of unchastity, unless one has first fallen because of gluttony: nor is one's anger aroused unless one is fighting for food or material possessions or the esteem of men. And one does not escape the demon of dejection, unless one no longer experiences suffering when deprived of these things. Nor will one escape pride, the first offspring of the devil, unless one has banished avarice, the root of all evil, since poverty makes a man humble, according to Solomon (cf. Prov. 10:4. LXX). In short, no one can fall into the power of any demon, unless he has been wounded by those of the front line. That is why the devil suggested these three thoughts to the Savior: first he exhorted Him to turn stones into bread; then he promised Him the whole world, if Christ would fall down and worship him: and thirdly he said that, if our Lord would listen to him. He would be glorified and suffer nothing in falling from the pinnacle of the temple. But our Lord, having shown Himself superior to these temptations, commanded the devil to 'get behind Him'. In this way He teaches us that it is not possible to drive away the devil, unless we scornfully reject these three thoughts (cf Matt. 4:1-10).
 
