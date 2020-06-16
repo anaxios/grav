@@ -1,16 +1,19 @@
 #!/bin/bash
 
+map() {
 
-
-for file in "$1"/*; do
-	prefix=$(echo "$file" | gsed -E "s/^(.*)-([0-9]?)/\2/g")
-	filename=$(echo "$file" | gsed -E "s/^$1(.*)\//\1/g")
+	for file in "$1"/*; do
+		#prefix=$(echo "$file" | gsed -E "s/^(.*)-([0-9]?)/\2/g")
+		#filename=$(echo "$file" | gsed -E "s/^$1(.*)\//\1/g")
 	
-#	echo $prefix
-#	echo $filename
-	if ! [[ ${prefix: -3} = ${filename: -3} ]]; then 
-		mv $file "$1/$prefix.$filename"
+	#	echo $prefix
+	#	echo $filename
+		if [[ -f "$file" ]]; then 
+			gsed -E 'N; s/^\*\*[0-9]\.(.*)\s\*\*/#### \1\n/g' "$file" > "$file"
+		elif [[ -d "$file" ]]; then 
+			eval map "$file" 
+		fi
+	done
+}
 
-	fi
-
-done
+map "$1"
