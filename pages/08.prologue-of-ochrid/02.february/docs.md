@@ -1,8 +1,9 @@
 ---
-title: 'Prologue of Ochrid'
+title: February
 date: '10:14 16-06-2020'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 # Prologue of Ochrid
