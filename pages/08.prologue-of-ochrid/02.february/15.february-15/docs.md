@@ -10,8 +10,8 @@ taxonomy:
 
 Onesimus was one of the Seventy [Lesser Apostles]. He was a slave of Philemon but transgressed against his master and fled to Rome. There he heard the Gospel from the Apostle Paul and was baptized. Since the Apostle Paul had earlier converted Philemon to the true Faith, he reconciled the two of them--Philemon and Onesimus, master and slave--writing a special epistle to Philemon. It is one of the most touching compositions in Holy Scripture. *I beseech thee for my son Onesimus, whom I have begotten in my bonds... For perhaps he therefore departed for a season, that thou shouldest receive him for ever. Not now as a servant, but above a servant, a brother beloved, specially to me *(Philemon 1:10,15,16). Indeed, moved by this letter, Philemon received Onesimus as a brother, freeing him from slavery. Later Onesimus was consecrated a bishop by the apostles themselves, and he accepted the episcopal throne at Ephesus at the death of the Apostle Timothy. This is evident from the Epistle of Ignatius the God-bearer. At the time of Trajan's persecution, Onesimus, already an old man, was arrested and brought to Rome. In Rome Onesimus gave an account of himself before the judge Tertulus, and he was imprisoned and finally beheaded. A wealthy woman removed his body, placed it in a silver coffin and buried it honorably, in the year 109 A.D.
 
-**2. THE VENERABLE EUSEBIUS
-**
+####  THE VENERABLE EUSEBIUS
+
 
 A Syrian hermit, Eusebius first lived an asectic life under the direction of holy men, and later he withdrew and became a recluse. He fed entirely on vegetables; he did not even taste fruit. He spent all of his time in prayer in the open spaces, enduring all conditions of weather. He lived to be ninety-five years of age and died peacefully in the year 440 A.D.
 

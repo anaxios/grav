@@ -6,8 +6,8 @@ taxonomy:
         - docs
 ---
 
-**1. THE VENERABLE XENIA
-**
+####  THE VENERABLE XENIA
+
 
 Xenia was born in Rome, the only daughter of a prominent senator. Drawn by love for Christ, she refused to enter into marriage as her parents wished. To avoid it, she secretly fled her home with two of her slaves, and arrived on the Island of Kos, at a place called Mylassa. There she founded a convent for virgins, where she lived an ascetic life until her death. Even though she was a frail woman, she possessed a steadfast endurance in fasting, prayer and all-night vigils. She often stood all night in prayer. She was dressed more poorly than all the other sisters, and she often sprinkled the bread she ate with ashes from the censer. At the time of her death (450 A.D.), a wonderful sign appeared over the virgins' convent: a wreath of stars with a cross in the center, brighter than the sun. Many who were sick received healing from her relics. Her female slaves [who became tonsured nuns] continued in the example of their abbess. When they reposed, they were buried, according to their wish, at the feet of Blessed Xenia.
 

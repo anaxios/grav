@@ -6,8 +6,8 @@ taxonomy:
         - docs
 ---
 
-**1. THE HOLY HIEROMARTYR [PRIESTLY-MARTYR] IGNATIUS THE GOD-BEARER
-**
+####  THE HOLY HIEROMARTYR [PRIESTLY-MARTYR] IGNATIUS THE GOD-BEARER
+
 
 The principal feast of St. Ignatius is celebrated in winter, on December 20. On this date we commemorate the translation of his relics from Rome, where he suffered martyrdom, to Antioch, where he had earlier been bishop. When St. Ignatius was summoned to Rome to account for his faith before Emperor Trajan, he was accompanied on this long journey by several citizens from Antioch, who were motivated in this by a great love toward their wonderful archpastor. Since he would never deny his faith in Christ, this saint of God, who abhorred all the adulation and promises of Emperor Trajan, was condemned to death and thrown to wild beasts in the Circus Maximus. The wild beasts tore him apart, and he surrendered his soul to God. His companions then gathered his exposed bones, took them to Antioch, and honorably buried them. When the Persians captured Antioch in the sixth century, the relics of St. Ignatius were again translated from Antioch to Rome.
 

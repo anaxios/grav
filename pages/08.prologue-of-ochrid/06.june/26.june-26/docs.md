@@ -10,8 +10,8 @@ taxonomy:
 
 David was born in Thessalonica. At first he lived in asceticism near Thessalonica in a hut built beneath an almond tree. Later he continued his asceticism in Thessaly. So much did he purify himself by fasting, prayer and all-night vigils that he was made worthy to receive great grace from God. Once he took live coals in his hand, placed incense on the coals and censed the emperor without any injury to his hand. Seeing this, the emperor bowed down to the ground before him. The people were amazed by his numerous miracles. He died peacefully and took up his habitation in eternal blessedness in the year 540 A.D.
 
-**2. THE FEAST OF THE TIKHVIN [TICHVINE] ICON OF THE MOTHER OF GOD
-**
+####  THE FEAST OF THE TIKHVIN [TICHVINE] ICON OF THE MOTHER OF GOD
+
 
 This icon of the Holy Birth-giver of God [the Theotokos] was first in Constantinople, but in 1383 A.D., seventy years before the fall of Constantinople [in 1453 A.D.], it suddenly appeared in the sky near the town of Tikhvin in northern Russia. On the spot where it came down to the ground, a church and monastery were established. The icon is named for the town of Tikhvin. Countless miracles have been wrought from this miraculous icon; many of the sick, especially, have received healing from it.
 

@@ -14,8 +14,8 @@ Because of his wisdom and virtue, Theodotus was elected to the episcopacy and go
 
 He suffered for Christ as a young man. Gregory of Neocaesarea saw in a vision how bravely Troadius withstood his tortures for Christ until the time he was killed. He saw his soul, when it had separated from the body, joyfully hastening toward heaven. St. Troadius suffered and was glorified in the third century.
 
-**3. THE 440 MARTYRS SLAIN BY THE LOMBARDS
-**
+####  THE 440 MARTYRS SLAIN BY THE LOMBARDS
+
 
 They were slain by the Lombards in Italy in about the year 579 A.D. St. Gregory Dialogist writes about them. In one place, forty of them were beheaded. At another place, four hundred of them were beheaded, all because they refused to eat of the sacrifices to the idols. Additionally, these four hundred refused to dance around a goat's head which had been offered to the demons as a pagan sacrifice, as was the custom of the Lombards.
 

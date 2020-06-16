@@ -14,8 +14,8 @@ Nicephorus was a nobleman of Constantinople. His father, Theodore, a high-rankin
 
 Constantine was born of Muslim parents on the island of Mitylene. Having been healed of a grave illness with the help of holy water in church, and having witnessed other miracles of the Faith of Christ, he was baptized on Mt. Athos in the Scete of Kapsokalyvia. Later, Constantine fell into the hands of the Turks, who hanged him in Constantinople on June 2, 1819 A.D. after forty days of cruel tortures.
 
-**3. THE HOLY MARTYR JOHN THE NEW OF SUCEAVA
-**
+####  THE HOLY MARTYR JOHN THE NEW OF SUCEAVA
+
 
 John was a nobleman from Trebizond. He was accused by an envious Latin and suffered for Christ in the city of Akerman in the year 1492 A.D. After being tortured for refusing to embrace the Persian religion (for the mayor of the town was an adherent of that faith), St. John was tied to the legs of a horse and dragged through the town. Upon seeing John, an evil Jew ran up to him and slaughtered him. That night many saw a fiery pillar over his body and three light-bearing men around it. With great honor the Moldavian commander Joalexander later translated his honorable body to the town of Suceava and buried it in the metropolitanate church, where it reposes even today, miraculously saving men from various pains and illnesses. John suffered honorably and was glorified on June 2, 1492 A.D.
 

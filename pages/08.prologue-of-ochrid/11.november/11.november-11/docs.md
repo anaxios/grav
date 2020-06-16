@@ -26,8 +26,8 @@ Vincent was from the diocese of Saragossa in Spain. He was cruelly tortured for 
 
 Theodore was the famous abbot of the Studite monastery (the Studium). He suffered greatly for the holy icons, and was a wise organizer of the monastic life, a divinely inspired teacher of Orthodoxy and a wonderful ascetic. He entered into rest in Constantinople, in the year 826 A.D. at the age of sixty-eight.
 
-**5. SAINT UROŠICA, PRINCE OF SERBIA
-**
+####  SAINT UROŠICA, PRINCE OF SERBIA
+
 
 Urošica was the son of King Dragutin.  He preserved his purity and chastity in marriage. Myrrh flowed from his grave.
 

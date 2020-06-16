@@ -14,8 +14,8 @@ They were prominent and wealthy citizens of Constantinople. Xenophont and his wi
 
 Simeon was a companion and friend of St. Palladius. From his early youth until his death, Simeon lived a life of asceticism in a cave. He established two monasteries and reposed in the Lord in the year 390 A.D. He is called the Ancient to distinguish him from Simeon the Stylite, who labored somewhat later.
 
-**3. SAINT DAVID, KING OF GEORGIA
-**
+####  SAINT DAVID, KING OF GEORGIA
+
 David (1089-1130 A.D.) renewed and strengthened the Georgian state. A great zealot for the Christian Faith, he built many new churches and restored the old ones throughout Georgia. David is considered to be the regenerator of the Orthodox Faith in Georgia.
 
 

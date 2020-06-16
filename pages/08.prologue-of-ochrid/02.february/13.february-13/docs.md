@@ -6,8 +6,8 @@ taxonomy:
         - docs
 ---
 
-**1. THE VENERABLE SIMEON [MIROTOCIVI] THE MYRRH-GUSHER
-**
+####  THE VENERABLE SIMEON [MIROTOCIVI] THE MYRRH-GUSHER
+
 
 Stefan Nemanja [Nehemiah], the great ruler [Great Zupan] of the Serbian people, the consolidator of the Serbian lands, creator of the independent Serbian state, defender of Orthodoxy and eradicator of heresy, was first baptized in the Latin Church, but later he left it and entered the Orthodox Church. In the beginning he was dependent on the Greeks with regard to the state, but later he freed himself from this dependence and became completely autonomous. After Stefan had strengthened the state and the Orthodox Faith in the state, he followed the example of his son Sava. He received the monastic tonsure in Studenica Monastery in the year 1195 A.D., receiving the name Simeon. His wife Anna withdrew to a women's monastery, embraced the monastic tonsure and received the name Anastasija. After two years as a monk in Studenica, Simeon traveled to Athos, the Holy Mountain. There he took up residence in the Monastery of Vatopedi together with his son Sava. Father and son spend their days and nights in prayer. There they built six chapels: to the Savior, the Unmercenary Saints, St. George, St. Theodore, St. John the Forerunner and St. Nicholas. They purchased the ruins of Hilandar and erected a glorious monastery, in which Simeon lived only eight months and then died. When Simeon was on his deathbed, Sava, according to his father's wishes, placed him on a simple mat. With eyes directed toward the icon of the Mother of God with the Savior, the blessed elder spoke these last words, *Let everything that has breath praise the Lord* (Psalm 150:6), and took up his habitation with the Lord, on February 13, 1200 A.D.
 

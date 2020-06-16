@@ -9,8 +9,11 @@ map() {
 	#	echo $prefix
 	#	echo $filename
 		if [[ -f "$file" ]]; then 
-			gsed -E 'N; s/^\*\*[0-9]\.(.*)\s\*\*/#### \1\n/g' "$file" > "$file"
+			gsed -E 'N; s/^\*\*[0-9]\.(.*)\s\*\*/#### \1\n/g' "$file" > OUTPUT/"$file"
 		elif [[ -d "$file" ]]; then 
+			if [[ ! -e OUTPUT/"$file" ]]; then
+				mkdir -p OUTPUT/"$file"
+			fi
 			eval map "$file" 
 		fi
 	done

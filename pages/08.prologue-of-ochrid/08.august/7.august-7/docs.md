@@ -18,8 +18,8 @@ Or attained great perfection through the greatest asceticism. When he firmly est
 
 Marinus was a soldier and Asterius was a Roman senator. At the time of Emperor Gallienus, St. Marinus served as a soldier in Caesarea in Palestine. Marinus was beheaded for the sake of the Christian Faith. Asterius, the senator, also a Christian, was present at his martyrdom. He removed his toga [dolman] and wrapped the body of the martyr in it. He then carried the body on his shoulders and honorably buried it. Seeing this, the pagans beheaded him also. They both died honorably for Christ in about the year 260 A.D.
 
-**4. THE VENERABLE POEMEN, THE MUCH-AILING
-**
+####  THE VENERABLE POEMEN, THE MUCH-AILING
+
 
 Since his youth, Poemen was both sickly and desirous of the monastic life. Brought to the Lavra of the Caves in Kiev for healing, he remained there until his death. Poemen prayed to God more for sickness than for health. At night, angels appeared to him and tonsured him a monk. They also informed him that he would be ill until his death and that just before his death he would become healthy. And so it was. Poemen was bedridden for twenty years. He worked miracles during his lifetime, and possessed a rare gift of clairvoyance. Just prior to his death, he rose from the bed completely whole, and immediately prepared a grave for himself. He rested in the Lord in the year 1110 A.D.
 
