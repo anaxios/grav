@@ -1,6 +1,9 @@
 ---
 title: 'Athonite Prayer Rule'
 date: '03:56 16-06-2020'
+taxonomy:
+    category:
+        - docs
 ---
 
 ### Trisagion Prayers
