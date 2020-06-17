@@ -6,6 +6,6 @@ taxonomy:
 child_type: docs
 ---
 
-# Prayer
+## Prayer
 
 A collection of prayers & services.
