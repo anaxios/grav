@@ -5,6 +5,6 @@ taxonomy:
     category: docs
 ---
 
-# Holy Fathers
+## Holy Fathers
 
 Short Hagiographies of the fathers of the Church.
