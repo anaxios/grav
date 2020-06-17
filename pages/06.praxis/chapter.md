@@ -5,6 +5,6 @@ taxonomy:
     category: docs
 ---
 
-# Praxis
+## Praxis
 
 Putting your faith into practice.
