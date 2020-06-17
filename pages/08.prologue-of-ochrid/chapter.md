@@ -5,6 +5,6 @@ taxonomy:
     category: docs
 ---
 
-# Prologue of Ochrid
+## Prologue of Ochrid
 
 Daily hagiographies and meditations.
