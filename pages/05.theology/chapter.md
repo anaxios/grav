@@ -5,6 +5,6 @@ taxonomy:
     category: docs
 ---
 
-# Theology
+## Theology
 
 A collection of theological texts & videos.
