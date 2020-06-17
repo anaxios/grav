@@ -5,6 +5,6 @@ taxonomy:
     category: docs
 ---
 
-# Outlines
+## Outlines
 
 A collection of outlines for the services.
