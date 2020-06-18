@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-![](Vintage-Peacock-Image-GraphicsFairy.jpg =150x)
+<img src=Vintage-Peacock-Image-GraphicsFairy.jpg width=150x />
 
 ### My notebook on Orthodox topics
 Aν πεθάνεις, πριν πεθάνεις, δεν θα πεθάνεις, όταν πεθάνεις.<br/>
