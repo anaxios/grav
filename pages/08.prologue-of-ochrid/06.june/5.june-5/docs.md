@@ -31,12 +31,11 @@ Peter was born in the village of Koriš, beyond the Monastery of St. Mark near P
 In the days of Blessed Prince Igor, when there was great quarreling and confusion among the Russian princes, there was also disorder in the Church and frequent changes on the thrones of the hierarchs. Thus, after the death of Metropolitan Michael of Kiev, Prince Izyaslav brought in the famous and learned monk Klim as metropolitan without seeking the blessing of the patriarch of Constantinople, contrary to the age-old tradition. The patriarch sent Metropolitan Constantine to investigate the matter. Constantine removed Klim and deposed all those clerics that he had ordained. Because of this the people were divided: some adhered to Klim and others adhered to Constantine. Then, according to the wishes of the Russian princes, the patriarch sent a third, Theodore, and both Klim and Constantine were removed. When Constantine died, in the year 1159 A.D. they opened his will, and in it he had requested that he not be buried but that his body be thrown in a field to be consumed by dogs, because he considered himself to have been the culprit responsible for the confusion in the Church. Not daring to disobey his testament, but nevertheless with great fear, men took the body of the metropolitan and threw it into a field, where it lay for three days. For three days there was a terrible thunder over Kiev, lightening flashed all around and struck, and the earth quaked. Eight men perished from the lightning. Three fiery pillars appeared over Constantine's lifeless body. Seeing all of this, the prince of Kiev ordered that the body of Constantine be taken and honorably buried in the church where the tomb of Igor was located. Immediately afterward a calm ensued in nature. Thus God justified His humble servant.
 
 
-**HYMN OF PRAISE
-####  
-**
-**SAINT ANOUB
-####  
-**
+#### HYMN OF PRAISE
+
+
+##### SAINT ANOUB
+
 "Anoub, in just three dark nights,
  
 
@@ -133,7 +132,7 @@ To contemplate the miraculous healing of the paralytic: *And, behold they brough
 #### HOMILY
 
 
-#### About the justification of almsgiving
+##### About the justification of almsgiving
 
 "Withhold not good from them to whom it is due, when it is in the power of your hand to do it" (Proverbs 3:27).
 
@@ -141,5 +140,4 @@ Do not ever say: "These beggars annoy me!" So many millions of men live on earth
 
 O Lord most rich, soften our hearts and enlighten our understanding, that we may be merciful in the goods that You, the All-merciful, have entrusted to us.
 
-**To Thee be glory and praise forever. Amen.
-** 
+To Thee be glory and praise forever. Amen.
