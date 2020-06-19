@@ -8,8 +8,7 @@ taxonomy:
 
 #### THE VENERABLE BESSARION
 
-Bessarion was born and educated in Egypt. He dedicated himself to the spiritual life at an early age and "did not stain the spiritual garment in which he was clothed at baptism." He visited St. Gerasimus by the Jordan and learned from St. Isidore of Pelusium. He subdued his body through extreme fasting and vigils, but concealed his asceticism from men as much as possible. He once stood at prayer for forty days, neither eating nor sleeping. He wore one garment in both summer and winter. He possessed the great gift of miracle-working. He did not have a permanent dwelling place but lived in the mountains and forests until deep old age. He healed the sick and worked many other miracles for the benefit of the people and to the glory of God. He died peacefully in the year 466 A.D.(*) 
-     (*) In the Greek Prologue, St. Bessarion is commemorated on February 20.
+Bessarion was born and educated in Egypt. He dedicated himself to the spiritual life at an early age and "did not stain the spiritual garment in which he was clothed at baptism." He visited St. Gerasimus by the Jordan and learned from St. Isidore of Pelusium. He subdued his body through extreme fasting and vigils, but concealed his asceticism from men as much as possible. He once stood at prayer for forty days, neither eating nor sleeping. He wore one garment in both summer and winter. He possessed the great gift of miracle-working. He did not have a permanent dwelling place but lived in the mountains and forests until deep old age. He healed the sick and worked many other miracles for the benefit of the people and to the glory of God. He died peacefully in the year 466 A.D. *In the Greek Prologue, St. Bessarion is commemorated on February 20.*
 
 #### THE VENERABLE HILARION THE NEW
 
@@ -20,12 +19,11 @@ Hilarion was the abbot of the Dalmatian monastery in Constantinople. He was a di
 As pure and virginal nuns, Archelais, Thecla and Susanna lived lives of asceticism in an unknown monastery near Rome. When the persecution of Christians began under the evil Emperor Diocletian, they fled to Campania and settled near the town of Nola. They could not conceal their holy lives, and people from the surrounding settlements began to come to them, seeking advice, instruction and assistance in various difficulties and infirmities. But they were finally captured by the pagans and brought to trial. They openly and freely confessed their faith in Christ. When Leontius, the judge, asked St. Archelais about the Faith of Christ, she replied: "By the power of Christ I trample on the power of the devil, and I instruct the people in understanding, that they might know the One True God. And by the Name of the Lord, my Jesus Christ, the Only-begotten Son of God, through me, His handmaid, health is given to all who are sick." All three virgins were flogged, had boiling pitch poured over them, were exhausted by hunger in prison, and were finally beheaded. When they were being led to the scaffold an angel appeared to them, and some of the executioners saw him, which so frightened them that they could not raise their swords against the holy virgins. However, the holy virgins encouraged the executioners to carry out their duty. And thus, as lambs, they were slain in the year 293 A.D. and entered the Kingdom of Christ, that they might rest and take delight in gazing upon the face of God in eternity.
 
 
-**HYMN OF PRAISE
-####  
-**
-**SAINT BESSARION
-####  
-**
+#### HYMN OF PRAISE
+ 
+##### SAINT BESSARION
+  
+
 Bessarion holy, without roof and bread,
  
 
@@ -100,7 +98,7 @@ To contemplate the miraculous resurrection of Jarius's daughter: *While He was s
 #### HOMILY
 
 
-#### About the guarding of the heart
+##### About the guarding of the heart
 
 "With closest custody, guard your heart, for in it are the sources of life" (Proverbs 4:23).
 
