@@ -6,6 +6,8 @@ taxonomy:
         - docs
 ---
 
+WIP
+
 **Song 1. Tone 6.**
 
 **Eirmos:** When Israel walked on foot in the sea as on dry land, on seeing their pursuer Pharaoh drowned, they cried: Let us sing to God a song of victory. Have mercy on me, O God, have mercy on me.
