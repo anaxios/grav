@@ -5,8 +5,9 @@ taxonomy:
         - docs
 ---
 
-THANKSGIVING
-AFTER HOLY COMMUNION
+WIP
+
+THANKSGIVING AFTER HOLY COMMUNION
 Glory to Thee, O God;
 Glory to Thee, O God;
 Glory to Thee, O God.
