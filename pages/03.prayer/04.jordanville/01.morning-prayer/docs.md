@@ -1,6 +1,6 @@
 ---
 title: 'Morning Prayer'
-published: false
+published: true
 taxonomy:
     category:
         - docs
