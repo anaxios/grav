@@ -5,6 +5,8 @@ taxonomy:
         - docs
 ---
 
+WIP
+
 CANON
 To the Most Holy Mother of God
 Troparia, tone 4: Let us, sinful and humbled, now earnestly run to the Mother of God, and let us fall down in repentance, crying from the depth of our soul: O Lady, help, have compassion on us! Make haste, we are perishing from the multitude of our sins. Turn not Thy servants empty away, for we have thee as our only hope.
