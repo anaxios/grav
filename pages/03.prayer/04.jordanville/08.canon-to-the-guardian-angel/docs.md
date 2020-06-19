@@ -5,6 +5,8 @@ taxonomy:
         - docs
 ---
 
+WIP
+
 CANON
 To the Guardian Angel
 Troparion: O Angel of God, my holy Guardian, keep my life in the fear of Christ God, strengthen my mind in the true way and wound my soul with heavenly love, so that guided by Thee, I may obtain the great mercy of Christ God.
