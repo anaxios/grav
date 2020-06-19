@@ -3,6 +3,7 @@ title: 'Morning Prayer'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 On rising, make the sign of the Cross and say:
