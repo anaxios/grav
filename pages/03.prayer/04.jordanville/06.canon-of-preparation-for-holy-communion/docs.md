@@ -5,6 +5,8 @@ taxonomy:
         - docs
 ---
 
+WIP
+
 CANON OF PREPARATION
 for Holy Communion.
 Heavenly King... Trisagion: All-holy Trinity... Our Father... Lord have mercy (12 times). O come let us worship... (Thrice). Psalm 50:
