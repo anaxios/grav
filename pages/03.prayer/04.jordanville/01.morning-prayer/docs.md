@@ -173,11 +173,3 @@ For Those Departed in Sleep
 Remember, O Lord, those who have departed from this life, Orthodox kings and queens, princes and princesses, Orthodox Patriarchs, Metropolitans, Archbishops and Bishops, Priests and Deacons and those who have served Thee in the Monastic State, and the laity of the Church, and the blessed founders of all Churches and monasteries, and grant them rest with the Saints in Thy eternal dwellings. Bow.
 
 Prayer of Rememberance for Parents Departed in Sleep
-
-Remember, O Lord, the souls of Thy servants who have departed in sleep, my parents (names), and all my relatives according to the flesh; forgive them every transgression, voluntary and involuntary; grant them the Kingdom and a part in Thy eternal joys, and the delight of Thy blessed and everlasting life. Bow.
-
-Prayer for Monastery Brotherhood
-
-Remember, O Lord, also all Fathers and Sisters and members of our Brotherhood who have departed in sleep with the hope of resurrection and eternal life, and all Orthodox Christians who lie here and in all the world, and with Thy Saints give them repose where the light of Thy Face shines and have mercy on us, for Thou art good and the Lover of men. Amen. Bow.
-
-At the end, say three times:
