@@ -5,8 +5,9 @@ taxonomy:
         - docs
 ---
 
-CANON
-To our Lord Jesus Christ. Tone 2
+WIP
+
+CANON To our Lord Jesus Christ. Tone 2
 Song 1.
 Eirmos: In the deep of old the infinite Power overwhelmed Pharoah's whole army. But the Incarnate Word annihilated pernicious sin. Exceedingly glorious is the Lord, for gloriously has He been glorified.
 
