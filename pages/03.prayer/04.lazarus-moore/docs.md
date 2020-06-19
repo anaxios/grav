@@ -6,4 +6,4 @@ taxonomy:
         - docs
 ---
 
-# Jordanville Prayer Book
+
