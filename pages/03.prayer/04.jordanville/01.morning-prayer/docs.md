@@ -181,5 +181,3 @@ Prayer for Monastery Brotherhood
 Remember, O Lord, also all Fathers and Sisters and members of our Brotherhood who have departed in sleep with the hope of resurrection and eternal life, and all Orthodox Christians who lie here and in all the world, and with Thy Saints give them repose where the light of Thy Face shines and have mercy on us, for Thou art good and the Lover of men. Amen. Bow.
 
 At the end, say three times:
-
-Grant, O Lord, remission of all sins to our Fathers, Brothers and Sisters departed in the faith and hope of resurrection, and grant them memory eternal.
