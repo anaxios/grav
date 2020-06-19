@@ -1,3 +1,10 @@
+---
+title: 'Morning Prayer'
+taxonomy:
+    category:
+        - docs
+---
+
 On rising, make the sign of the Cross and say:
 
 In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.
