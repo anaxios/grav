@@ -24,60 +24,25 @@ As pure and virginal nuns, Archelais, Thecla and Susanna lived lives of ascetici
 ##### SAINT BESSARION
   
 
-Bessarion holy, without roof and bread,
- 
-
-From childhood to the grave, his virginity preserved:
- 
-
-Purity of body and purity of mind.
- 
-
-Therefore, with power and understanding, was he filled,
- 
-
-Divine understanding and power divine.
-
-
-Joyful in spirit, without sadness or sorrow,
- 
-
-Without sadness or sorrow and without darkened thoughts,
- 
-
-A pure and clairvoyant mind as clear as crystal.
- 
-
-When Divine Love in his heart flared up,
-
-
-He, many and glorious miracles, performed.
- 
-
-On water he walked as on dry land,
- 
-
-And a terrible scourge was he, to every dark spirit;
- 
-
-He stopped the sun and delayed evening,
- 
-
-And all he said with his mouth became a deed.
- 
-
-In him the power of God worked,
- 
-
-For he, to God in everything, was obedient.
- 
-
-Wonderworking saint, help even us
- 
-
+Bessarion holy, without roof and bread,<br/>
+From childhood to the grave, his virginity preserved:<br/>
+Purity of body and purity of mind.<br/>
+Therefore, with power and understanding, was he filled,<br/>
+Divine understanding and power divine.<br/>
+Joyful in spirit, without sadness or sorrow,<br/>
+Without sadness or sorrow and without darkened thoughts,<br/>
+A pure and clairvoyant mind as clear as crystal.<br/>
+When Divine Love in his heart flared up,<br/>
+He, many and glorious miracles, performed.<br/>
+On water he walked as on dry land,<br/>
+And a terrible scourge was he, to every dark spirit;<br/>
+He stopped the sun and delayed evening,<br/>
+And all he said with his mouth became a deed.<br/>
+In him the power of God worked,<br/>
+For he, to God in everything, was obedient.<br/>
+Wonderworking saint, help even us<br/>
 By your prayers before the throne of God!
  
-
 #### REFLECTION
 
 Malicious joy is a sordid garment which our spirit sometimes dons with great satisfaction. The very moment that you rejoice in the sinful fall of your brother, you too have fallen, to the joy of the devil, who with one hook has snared two fish. Brotherhood according to the flesh is a great bond, but brotherhood according to the spirit is even greater. When you are grieved by the sin of a brother according to the flesh, why then does the sin of a brother according to the spirit not grieve you? When you conceal the sin of a brother according to the flesh, why do you with malevolent joy proclaim the sin of your brother according to the spirit? Who are your brothers according to the spirit? All Christians--all those who receive with you from the one and the same Chalice the one and the same life. Oh, how great were the saints in their brotherly love! Oh, how far away from them was malicious joy! The following is said about St. Bessarion: on one occasion all the monks were gathered in church for prayer. The abbot approached a monk who had committed a sin and ordered him to leave the church. The monk started to leave and Bessarion followed him, saying: "I also am the same kind of sinner!"
