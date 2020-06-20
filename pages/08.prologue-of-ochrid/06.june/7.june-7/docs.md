@@ -31,74 +31,29 @@ Daniel was the abbot of the famous Egyptian Scetis. He was a disciple of St. Ars
  
 ##### SAINT MARCELLINUS
 
-O sinner, cast out despair,
- 
-
-And unto God offer repentance.
- 
-
-Despair, for the devil, is rejoicing.
-
-
-Behold, Marcellinus, a hierarch was,
-
-
-And when to torture they led him
- 
-
-He, before the emperor, betrayed the Lord.
- 
-
-Yet to despair, he did not give himself,
- 
-
-But the terrible sin openly confessed
- 
-
-And by his blood washed it away in glory.
- 
-
-O sinner, do not despondent become,
- 
-
-And like a serpent, sins do not conceal.
- 
-
-Sin concealed  is a serpent in the bosom!
- 
-
-The heart of secret sinners it eats.
- 
-
-Peter sinned--and quickly cast away sin;
- 
-
-That is what true penitents do.
- 
-
-When an apostle and a pope sinned
- 
-
-And were forgiven by God,
- 
-
-How then, for you, can there not be forgiveness?
- 
-
-Only repent, but without being late.
- 
-
-A bitter death can make you late
- 
-
-And from God separate you forever.
- 
-
-Quickly, quickly, cast out despair,
- 
-
-And quickly offer repentance!
- 
+O sinner, cast out despair,<br/>
+And unto God offer repentance.<br/>
+Despair, for the devil, is rejoicing.<br/>
+Behold, Marcellinus, a hierarch was,<br/>
+And when to torture they led him<br/>
+He, before the emperor, betrayed the Lord.<br/>
+Yet to despair, he did not give himself,<br/>
+But the terrible sin openly confessed<br/>
+And by his blood washed it away in glory.<br/>
+O sinner, do not despondent become,<br/>
+And like a serpent, sins do not conceal.<br/>
+Sin concealed  is a serpent in the bosom!<br/>
+The heart of secret sinners it eats.<br/>
+Peter sinned--and quickly cast away sin;<br/>
+That is what true penitents do.<br/>
+When an apostle and a pope sinned<br/>
+And were forgiven by God,<br/>
+How then, for you, can there not be forgiveness?<br/>
+Only repent, but without being late.<br/>
+A bitter death can make you late<br/>
+And from God separate you forever.<br/>
+Quickly, quickly, cast out despair,<br/>
+And quickly offer repentance!<br/>
 
 #### REFLECTION
 
