@@ -27,12 +27,10 @@ Marcellinus was the predecessor of Pope Marcellus on the Roman patriarchal thron
 Daniel was the abbot of the famous Egyptian Scetis. He was a disciple of St. Arsenius and a teacher of many. Many of his words and teachings are as guiding stars for monks. Once, when the barbarians attacked the Scete, the brethren called him to flee together with them. He answered them: "If God does not take care of me, what is the purpose of living?" Daniel also said: "The more obese your body becomes, the more emaciated your soul becomes." He lived a communal life of asceticism for forty years but later withdrew to the wilderness, in the year 420 A.D. He happened to be in Alexandria when a wicked father-in-law killed his daughter-in-law, St. Thomais (see April 13), because of her chastity. Daniel and his disciple buried this martyr.
 
 
-**HYMN OF PRAISE
+#### HYMN OF PRAISE
  
-**
-**SAINT MARCELLINUS
-####  
-**
+##### SAINT MARCELLINUS
+
 O sinner, cast out despair,
  
 
@@ -121,7 +119,7 @@ To contemplate the miraculous healing of the woman with an issue of blood: *And,
 
 #### HOMILY
 
-#### About emulating the ant
+##### About emulating the ant
 
 "Go to the ant, O sluggard, study her ways and learn wisdom" (Proverbs 6:6).
 
