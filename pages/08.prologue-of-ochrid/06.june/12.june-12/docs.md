@@ -25,90 +25,39 @@ Timothy first lived a life of asceticism in the Thebaid and then withdrew into t
 Bassian and Jonah were monks of the Solovki Monastery. They drowned and were washed ashore in the year 1651 A.D. Over their graves a sign appeared, and because of this a church was built. The Petrominsk Monastery was subsequently established there. Once, when Tsar Peter the Great was saved from a tempest, he remained there for three days, made a cross, and erected it on the shore.
 
 
-**HYMN OF PRAISE
-####  
-**
-**THE VENERABLE PETER THE ATHONITE
-####  
-**
-Saint Peter in the fearful wilderness
- 
+#### HYMN OF PRAISE
 
-Of all earthly riches was deprived,
- 
+##### THE VENERABLE PETER THE ATHONITE
 
-But through tearful prayer he overcame
-
-All the rich illusions of the devil.
-
-
-His heart he bridled and to God raised it;
- 
-
-His mind he set upright and to heaven uplifted it.
-
-
-Immobile as a rock among the cliffs,
- 
-
-Wearied by hunger and all-night vigils,
- 
-
-He directed himself toward every good,
- 
-
-As a fleshless one in earthly flesh.
- 
-
-On Mt. Athos, for half a century,
- 
-
-In prayer he spoke only with God.
- 
-
-From age he turned as white as snow;
-
-
-No man he saw, nor did he desire to.
- 
-
-To him God revealed the window of heaven;
- 
-
-Countless miracles he saw,
- 
-
-The Mother of God and God's angels,
- 
-
-And the all-wonderful saints of God.
- 
-
-To him the Lord an angel sent
-
-
-Who gave him Holy Communion from heaven,
- 
-
-Until Peter made himself a spiritual giant,
- 
-
-A city on a high mountain,
- 
-
-To be a teacher throughout the ages,
- 
-
+Saint Peter in the fearful wilderness<br/>
+Of all earthly riches was deprived,<br/>
+But through tearful prayer he overcame<br/>
+All the rich illusions of the devil.<br/>
+His heart he bridled and to God raised it;<br/>
+His mind he set upright and to heaven uplifted it.<br/>
+Immobile as a rock among the cliffs,<br/>
+Wearied by hunger and all-night vigils,<br/>
+He directed himself toward every good,<br/>
+As a fleshless one in earthly flesh.<br/>
+On Mt. Athos, for half a century,<br/>
+In prayer he spoke only with God.<br/>
+From age he turned as white as snow;<br/>
+No man he saw, nor did he desire to.<br/>
+To him God revealed the window of heaven;<br/>
+Countless miracles he saw,<br/>
+The Mother of God and God's angels,<br/>
+And the all-wonderful saints of God.<br/>
+Who gave him Holy Communion from heaven,<br/>
+Until Peter made himself a spiritual giant,<br/>
+A city on a high mountain,<br/>
+To be a teacher throughout the ages,<br/>
 To the holy monks, a wonderful example.
- 
 
 #### REFLECTION
 
 Great and wonderful is the Mystery [Sacrament] of Holy Communion. Even anchorites [recluses] and hermits craved for nothing so much as to be given the possibility to receive Holy Communion. St. Mary of Egypt begged St. Zosimas to bring her the Holy Mysteries by the Jordan and commune her. Returning from visiting St. Onuphrius, the Venerable Paphnutius found a humble community of four young ascetics in the desert. When Paphnutius asked them whether and how they received Holy Communion, they replied that an angel of God visited them every Saturday and Sunday and gave them Holy Communion. Paphnutius remained until the following Saturday and was personally convinced. When Saturday dawned the entire community was filled with an indescribable, wonderful fragrance, and while they were at prayer, an angel of God in the form of a handsome young man, as bright as lightning, appeared with the All-pure Mysteries. Paphnutius became frightened and fell to the ground in fear. But they raised him up and brought him to the angel, so that he, along with them, received Communion from the hand of the angel. According to his own testimony, St. Onuphrius received Holy Communion from the hand of an angel, as did many other anchorites and hermits. Therefore, it is completely erroneous to think that solitaries and hermits did not receive Holy Communion. God, Who provided for their bodily nourishment, did not leave them without the Life-giving nourishment of the Body and Blood of Christ the Lord.
 
-
 #### CONTEMPLATION
-
 
 To contemplate the miraculous multiplying of the bread in the wilderness: *And when it was evening, his disciples came to Him saying: This is a desert place, and the time is now past; send the multitude away that they may go into the villages, and buy themselves victuals* (St. Matthew 14:15):
 
@@ -119,8 +68,7 @@ To contemplate the miraculous multiplying of the bread in the wilderness: *And w
 
 #### HOMILY
 
-
-#### About the palace and the hut
+##### About the palace and the hut
 
 "The house of the wicked shall be overthrown but the hut of the righteous shall flourish" (Proverbs 14:11).
 
