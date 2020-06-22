@@ -15,83 +15,34 @@ Manuel, Sabel and Ishmael were brothers born in Persia, of a pagan father and a 
 Pior was a hermit [Silentary] in Nitria. Inflamed with love for God, Pior renounced the world at an early age and withdrew to the Egyptian desert, where he heroically lived a life of asceticism. It is said that he never sat at the table to eat but that he always ate standing and working. When asked why he did this, St. Pior replied: "I do not want to concern myself with eating as an occupation but rather as something marginal." When they called him to a council to judge a brother who had committed a sin, Pior arrived carrying a sack of sand on his back and a small bag of sand on his chest. Asked what it meant, the saint replied: "The sack of sand on my back represents my sins, which I do not see, and the bag of sand on my chest represents the sins of my brother, whom I have to judge." All the brethren were then ashamed and cried out: "This is the path of salvation!" Pior lived to be a hundred years old and reposed in the Lord in the fourth century.
 
 
-**HYMN OF PRAISE
-####  
-**
-**THE HOLY MARTYRS MANUEL, SABEL AND ISHMAEL
-####  
-**
-Of a Christian mother and a pagan father,
- 
+#### HYMN OF PRAISE
 
-Three blood brothers, wonderful peacemakers,
- 
+#### THE HOLY MARTYRS MANUEL, SABEL AND ISHMAEL
 
-Manuel, Sabel and young Ishmael,
- 
-
-Dead for Christ's sake to earthly delight.
- 
-
-To serve peace they voluntarily set out--
- 
-
-To unite in peace the Persian and Greeks.
- 
-
-But Julian the cursed, the servant of the devil,
- 
-
-Began to dispute with the three brothers about the Faith
- 
-
-And proposed that the brothers, in Christ baptized,
-
-
-Embrace his faith impure.
-
-
-To the crowned beast the brothers then replied:
-
-
-"To change our Faith, we did not come,
- 
-
-But peace to make, O Emperor of the Greeks.
- 
-
-In the Son of God, we have faith.
- 
-
-The worse for the better can well be given up,
- 
-
-But the better for the worse, only a madman would exchange."
- 
-
-The enraged emperor--in him hades burned--
- 
-
-In bitter torments the three brothers slew.
- 
-
-But God the All-seeing, Who the value of each knows,
- 
-
-Against the evil emperor turned with anger.
- 
-
-Julian, the evil one, weak before God,
- 
-
-A shameful death died, and everyone laughed;
- 
-
-Everyone laughed who knew his pride,
-
-
+Of a Christian mother and a pagan father,<br/>
+Three blood brothers, wonderful peacemakers,<br/>
+Manuel, Sabel and young Ishmael,<br/>
+Dead for Christ's sake to earthly delight.<br/>
+To serve peace they voluntarily set out--<br/>
+To unite in peace the Persian and Greeks.<br/>
+But Julian the cursed, the servant of the devil,<br/>
+Began to dispute with the three brothers about the Faith<br/>
+And proposed that the brothers, in Christ baptized,<br/>
+Embrace his faith impure.<br/>
+To the crowned beast the brothers then replied:<br/>
+"To change our Faith, we did not come,<br/>
+But peace to make, O Emperor of the Greeks.<br/>
+In the Son of God, we have faith.<br/>
+The worse for the better can well be given up,<br/>
+But the better for the worse, only a madman would exchange."<br/>
+The enraged emperor--in him hades burned--<br/>
+In bitter torments the three brothers slew.<br/>
+But God the All-seeing, Who the value of each knows,<br/>
+Against the evil emperor turned with anger.<br/>
+Julian, the evil one, weak before God,<br/>
+A shameful death died, and everyone laughed;<br/>
+Everyone laughed who knew his pride,<br/>
 And through him the weakness of injustice they recognized.
- 
 
 #### REFLECTION
 
@@ -111,7 +62,7 @@ To contemplate the miraculous Transfiguration of the Lord Jesus: *And after six 
 #### HOMILY
 
 
-#### About the punishment of those who bear false witness
+##### About the punishment of those who bear false witness
 
 "The false witness will not go unpunished and he who utters lies will perish" (Proverbs 19:9).
 
