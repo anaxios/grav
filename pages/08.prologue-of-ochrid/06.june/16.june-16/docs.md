@@ -15,71 +15,30 @@ Saint Tikhon was a miracle-worker. Following the death of Blessed Mnemonius, Tik
 Tigrius and Eutropius were among the clergy of St. John Chrysostom. When evil men banished Chrysostom from Constantinople, the cathedral church [Hagia Sophia] was set on fire and the flames that rose from it fell upon the houses of the persecutors of this beacon of the Church. The people saw the finger of God in this, but the enemies of Chrysostom attributed this fire to his adherents. Many of those who were accused suffered bitterly because of it, among them the presbyter Tigrius and the reader Eutropius. Optatius, the mayor of the city, an unbaptized Greek, began with particular malice to pursue Chrysostom's followers. Tigrius, in his youth, had been the slave of a wealthy man and had been castrated by him. Having been freed from slavery, he dedicated himself completely to the service of the Church, and in this service he shone as a bright ray. Optatius subjected this "meek, humble, charitable and hospitable" man to great tortures and then banished him into exile to Mesopotamia, where he died in prison. Eutropius, chaste from birth, pure, blameless and kind, was beaten with oxen whips and rods and finally hanged. When Christians took his body to bury it, sweet angelic singing was heard in the air.
 
 
-**HYMN OF PRAISE
-####  
-**
-**SAINT TIGRIUS AND SAINT EUTROPIUS
+#### HYMN OF PRAISE
 
-**
-Glorious Chrysostom soared like an eagle.
- 
+##### SAINT TIGRIUS AND SAINT EUTROPIUS
 
-Beside him were Tigrius and Eutropius the reader.
- 
-
-Like small eaglets, but strong and faithful,
- 
-
-They followed him, kind and innocent.
- 
-
-But impotent malice, foulness serves;
- 
-
-The weak and the evil, the devil unites quickly.
- 
-
-The malicious rose up against the servants of God
-
-
-And on them poured out a sea of mockery.
- 
-
-Accused of being arsonists, the men of God,
- 
-
-These wonderful martyrs, under torture were placed.
- 
-
-Suffering is intended for heroes,
- 
-
-While it despises those who are weak in virtue!
- 
-
-Tigrius the presbyter, and Eutropius the reader,
- 
-
-By torture the truth of God they confirmed.
-
-
-The heroes of God were slain
- 
-
-As arsonists--innocent lambs!
- 
-
-After their eagle, the eaglets took flight,
- 
-
-And in Paradise sweet, to rest they came.
- 
-
-Malice from the mud yelps after the eagles;
- 
-
+Glorious Chrysostom soared like an eagle.<br/>
+Beside him were Tigrius and Eutropius the reader.<br/>
+Like small eaglets, but strong and faithful,<br/>
+They followed him, kind and innocent.<br/>
+But impotent malice, foulness serves;<br/>
+The weak and the evil, the devil unites quickly.<br/>
+The malicious rose up against the servants of God<br/>
+And on them poured out a sea of mockery.<br/>
+Accused of being arsonists, the men of God,<br/>
+These wonderful martyrs, under torture were placed.<br/>
+Suffering is intended for heroes,<br/>
+While it despises those who are weak in virtue!<br/>
+Tigrius the presbyter, and Eutropius the reader,<br/>
+By torture the truth of God they confirmed.<br/>
+The heroes of God were slain<br/>
+As arsonists--innocent lambs!<br/>
+After their eagle, the eaglets took flight,<br/>
+And in Paradise sweet, to rest they came.<br/>
+Malice from the mud yelps after the eagles;<br/>
 In mud was it born and in mud it remains.
- 
 
 #### REFLECTION
 
@@ -100,8 +59,7 @@ To contemplate the miraculous healing of the daughter of the woman of Canaan: *A
 
 #### HOMILY
 
-
-#### About how death and life depend on the tongue
+##### About how death and life depend on the tongue
 
 "Death and life are in the power of the tongue" (Proverbs 18:21).
 

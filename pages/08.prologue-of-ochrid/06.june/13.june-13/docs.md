@@ -19,84 +19,36 @@ Triphyllius was a disciple of St. Spyridon and later his fellow worker on the is
 Taken as an orphan into the home of a nobleman and cared for as an adopted daughter, Anna was raised and educated in that home. As a worthy maiden, she was wed by this nobleman to his son. When the elder nobleman died, the relatives pressed his son to release his wife because of her lowly birth and to marry another who, according to origin and wealth, would be more suitable for him. The nobleman's son feared God and did not want to do this. Seeing her husband in conflict with his relatives, Anna secretly left him and fled to a distant island, where there was not a living soul. But she arrived at the island pregnant and soon bore a son. There she lived in asceticism for thirty years in fasting and prayer. Then, according to God's providence, a hieromonk landed on this island, baptized her son, and gave him the name of John. This holy soul, Anna, lived in asceticism in the fifth century and died peacefully.
 
 
-**HYMN OF PRAISE
-####  
-**
-**SAINT TRIPHYLLIUS
-####  
-**
-While Saint Triphyllius was yet a deacon,
- 
+#### HYMN OF PRAISE
 
-The Psalter and the Gospels he read.
- 
+##### SAINT TRIPHYLLIUS
 
-Humbly and with a sweet voice to the people he read,
- 
-
-And the holy Spyridon attentively listened.
- 
-
-Once in a church crowded with people,
- 
-
-The chapter on the Paralytic he beautifully read,
- 
-
-How the gentle Lord the sick one saw.
- 
-
-"Take up your bedding," said He, and the sick one departed.
- 
-
-Triphyllius substituted the word "bedding" for "bed."(*)
- 
-
-Then said Spyridon: "My son, come to me!
- 
-
-How, my dear deacon, do you change the words,
- 
-
-The words which our gentle Savior uttered?
- 
-
-The word 'bed' from His mouth came
- 
-
-But 'bedding' you said, and His word you omitted!
- 
-
-My son, this is a book from on high inspired;
- 
-
-Therefore, everything as it is written in it, let us read.
- 
-
-Full of power, the Gospel words are,
- 
-
-And weak and decayed human words are.
- 
-
-The bed of a man is not the same as an animal's bedding;
- 
-
-Therefore, my son, say: 'God forgive me!'"
- 
-
-Triphyllius, the deacon, his error realized,
- 
-
-Bitterly repented and was much ashamed.
- 
-
-Triphyllius was blessed because of his spiritual father,
- 
-
+While Saint Triphyllius was yet a deacon,<br/>
+The Psalter and the Gospels he read.<br/>
+Humbly and with a sweet voice to the people he read,<br/>
+And the holy Spyridon attentively listened.<br/>
+Once in a church crowded with people,<br/>
+The chapter on the Paralytic he beautifully read,<br/>
+How the gentle Lord the sick one saw.<br/>
+"Take up your bedding," said He, and the sick one departed.<br/>
+Triphyllius substituted the word "bedding" for "bed."(1)<br/>
+Then said Spyridon: "My son, come to me!<br/>
+How, my dear deacon, do you change the words,<br/>
+The words which our gentle Savior uttered?<br/>
+The word 'bed' from His mouth came<br/>
+But 'bedding' you said, and His word you omitted!<br/>
+My son, this is a book from on high inspired;<br/>
+Therefore, everything as it is written in it, let us read.<br/>
+Full of power, the Gospel words are,<br/>
+And weak and decayed human words are.<br/>
+The bed of a man is not the same as an animal's bedding;<br/>
+Therefore, my son, say: 'God forgive me!'"<br/>
+Triphyllius, the deacon, his error realized,<br/>
+Bitterly repented and was much ashamed.<br/>
+Triphyllius was blessed because of his spiritual father,<br/>
 Saint Spyridon the glorious miracle-worker.
 
-[(*) The distinction between these two words cannot be made in English.  
+[(1) The distinction between these two words cannot be made in English.  
 The word Tryphillius substituted can mean the type of "bed" used by animals. --*Ed.*]
 
 
@@ -118,7 +70,7 @@ To contemplate the Lord's miraculous walking on water as on dry land: *And when 
 #### HOMILY
 
 
-#### About the path of life and the path of death
+##### About the path of life and the path of death
 
 "Sometimes a way seems right to a man but the end of it leads to death!" (Proverbs 14:12).
 

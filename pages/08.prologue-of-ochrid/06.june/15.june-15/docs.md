@@ -21,11 +21,10 @@ Doulas lived a holy life in a monastery in Egypt. One of his brethren, out of en
 ####  THE HOLY MARTYR LAZAR [LAZARUS], PRINCE OF SERBIA
 
 
-Lazar was one of the Serbian noblemen who ruled the Serbian empire after the death of Tsar Dušan. After the death of Tsar Uroš, Patriarch Ephraim crowned Lazar as the Serbian king. Lazar sent a delegation to Constantinople with the monk Isaiah to implore the patriarch to lift [remove] the anathema from the Serbian people. He fought against the Turkish powers on several occasions. Finally, on June 15, 1389 A.D., he clashed [fought] with the Turkish Emperor Amurat at Kosovo Polje [the Field of Blackbirds, Kosovo Polje] where he was beheaded. His body was translated to and interred in Ravanica, the monastery he founded [Zaduzbina] near Ćuprija, and was later translated to [New] Ravanica in Srem, and from there, during the Second World War (1942), it was translated to Belgrade and placed in the Cathedral Church of the Holy Archangel Michael, where it rests today incorrupt, extending comfort and healing to all those who turn to him with prayer.(*) St. Lazar restored the monasteries of Hilandar [Mt. Athos] and Gornjak. He built Ravanica and Lazarica [in Kruševac] and was a benefactor of the Russian monastery St. Pantaleon [Mt. Athos] as well as many other churches and monasteries.
-   (*) In 1989, on the occasion of the 600th anniversary of his martyrdom, St. Lazar's relics were again translated to the Monastery of Ravanica in Ćuprija. --*Trans.*
+Lazar was one of the Serbian noblemen who ruled the Serbian empire after the death of Tsar Dušan. After the death of Tsar Uroš, Patriarch Ephraim crowned Lazar as the Serbian king. Lazar sent a delegation to Constantinople with the monk Isaiah to implore the patriarch to lift [remove] the anathema from the Serbian people. He fought against the Turkish powers on several occasions. Finally, on June 15, 1389 A.D., he clashed [fought] with the Turkish Emperor Amurat at Kosovo Polje [the Field of Blackbirds, Kosovo Polje] where he was beheaded. His body was translated to and interred in Ravanica, the monastery he founded [Zaduzbina] near Ćuprija, and was later translated to [New] Ravanica in Srem, and from there, during the Second World War (1942), it was translated to Belgrade and placed in the Cathedral Church of the Holy Archangel Michael, where it rests today incorrupt, extending comfort and healing to all those who turn to him with prayer.(1) St. Lazar restored the monasteries of Hilandar [Mt. Athos] and Gornjak. He built Ravanica and Lazarica [in Kruševac] and was a benefactor of the Russian monastery St. Pantaleon [Mt. Athos] as well as many other churches and monasteries.
+   (1) In 1989, on the occasion of the 600th anniversary of his martyrdom, St. Lazar's relics were again translated to the Monastery of Ravanica in Ćuprija. --*Trans.*
 
 ####  SAINT EPHRAIM, PATRIARCH OF SERBIA
-
 
 As the son of a priest, Ephraim yearned for a spiritual and ascetical life from an early age. He fled to Mt. Athos when his parents wanted him to marry. He later returned and lived a life of asceticism in the Ibar gorge and in the Monastery of Dečani [Kosovo]. When rivalry and war broke out concerning precedence in the state and, unfortunately, even in the Church, the Synod [Sabor] chose Ephraim to succeed the deceased Sava as patriarch in 1375 A.D. When he was informed of his election, he wept bitterly but was unable to refuse. He crowned Prince Lazar as Tsar in 1382 A.D., then renounced his throne and turned it over to Spyridon and again withdrew to the wilderness. Following the death of Spyridon in 1388 A.D., Tsar Lazar begged him to accept the throne again. He governed the Serbian Church in the difficult time of the defeat at Kosovo [1389 A.D.] until 1400 A.D. when he died in the eighty-eighth year of his earthly life and took up his habitation with the Lord, Whom he loved. His relics repose in the Monastery of Peć [Kosovo].
 
@@ -33,66 +32,28 @@ As the son of a priest, Ephraim yearned for a spiritual and ascetical life from 
 
 Augustine turned from paganism to Christianity, thanks to the counsels, tears and prayers of his mother, Monica. He was a great teacher of the Church and an influential writer, but with certain impermissible extremes in his teaching. As bishop of Hippo, he glorified the Lord for thirty-five years and lived a total of seventy-six years on earth (354-430 A.D.).
 
+#### HYMN OF PRAISE
 
-**HYMN OF PRAISE
-####  
-**
-**SAINT VITUS
-####  
-**
-The most excellent Vitus, full of heavenly honey,
- 
+##### SAINT VITUS
 
-Before the unbelievers, confessed Christ,
- 
-
-And mocked the lifeless idols
- 
-
-And the dark idolatrous soothsayers.
- 
-
-He glorified Christ as the power of God;
- 
-
-To his father and to the judge, he taught the truth,
- 
-
-But against him, both of them took up arms,
- 
-
-And for the young Vitus, torments prepared.
-
-
-But God, His martyrs protects
- 
-
-And glorifies those who glorify Him.
- 
-
-Vitus needed to witness to the Lord Christ
- 
-
-Before the emperor
- 
-
-And in Rome, to suffer publicly,
- 
-
-That his name would be more glorified.
- 
-
-Little Vitus the angels held,
- 
-
-Little Vitus the angels led.
- 
-
-And his soul, the angels bore;
- 
-
+The most excellent Vitus, full of heavenly honey,<br/>
+Before the unbelievers, confessed Christ,<br/>
+And mocked the lifeless idols<br/>
+And the dark idolatrous soothsayers.<br/>
+He glorified Christ as the power of God;<br/>
+To his father and to the judge, he taught the truth,<br/>
+But against him, both of them took up arms,<br/>
+And for the young Vitus, torments prepared.<br/>
+But God, His martyrs protects<br/>
+And glorifies those who glorify Him.<br/>
+Vitus needed to witness to the Lord Christ<br/>
+Before the emperor<br/>
+And in Rome, to suffer publicly,<br/>
+That his name would be more glorified.<br/>
+Little Vitus the angels held,<br/>
+Little Vitus the angels led.<br/>
+And his soul, the angels bore;<br/>
 Into Paradise they took it and to God presented it.
- 
 
 #### REFLECTION
 
@@ -111,8 +72,7 @@ To contemplate the miraculous healing of many who were sick: *And (they) besough
 
 #### HOMILY
 
-
-#### About the poor man and his Creator
+##### About the poor man and his Creator
 
 "He who mocks the poor, blasphemes his Maker (Creator)" (Proverbs 17:5).
 

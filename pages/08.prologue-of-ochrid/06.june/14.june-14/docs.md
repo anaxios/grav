@@ -23,77 +23,32 @@ John was surnamed Mavron [The Black.] He was a very educated man and at the same
 Niphon was born in the region of Argyrokastron in the village of Lukov. He was the son of a priest. From his youth he was attracted to solitude and prayer. That desire finally led him to Mt. Athos, where he lived a life of asceticism, at first in the cave of St. Peter the Athonite and later in the wilderness of St. Anna. He did not even want to eat bread but fed on vegetation and roots. Some envious people accused him of having an aversion to bread, but he easily and quickly cleared himself of this accusation. Finally he became associated with St. Maximus of Kapsokalyvia. Because of his sincere love for God, Niphon was endowed with the gift of miracle-working and discernment (clairvoyance). He healed the sick by his prayer and by anointing with oil, and he clearly saw events both past and future. About himself he prophesied that he would die during the Fast of Saint Peter [This fast precedes the feast of Saints Peter and Paul]. When the day of his death dawned, he said to the brethren assembled around him: "Do not weep, rather rejoice, for in me you will have an intercessor before God for your salvation." At the end he said: "It is time for me to depart," and he gave up his holy soul to God on June 14, 1330 A.D.
 
 
-**HYMN OF PRAISE
- 
-**
-**THE PROPHET ELISHA AND COMMANDER NAAMAN (2 KINGS 5)
- 
-**
-What good are riches and this beautiful world,
- 
+#### HYMN OF PRAISE
 
-What good are authority and power, when a man is leprous?
+##### THE PROPHET ELISHA AND COMMANDER NAAMAN (2 KINGS 5)
  
-
-But the commander Naaman is covered with leprosy,
- 
-
-From leprosy completely white, as though covered with purulence.
- 
-
-But the commander to the man of God hurries,
- 
-
-Only from him hoping for a cure,
- 
-
-With his entire caravan of clothing and gold.
- 
-
-This, to the man of God, let it be a payment!
- 
-
-Elisha said to him: to the Jordan go,
- 
-
-And in the water, seven times to bathe.
- 
-
-At his misfortune Naaman became angry:
- 
-
-"A river clearer and larger, do we not have?"
- 
-
-And quickly to his home, he wanted to return,
- 
-
-But from this, his wise servant dissuaded him.
- 
-
-"O Master," he said, "do not give up quickly.
- 
-
-Behold, the Jordan is nearby; go and bathe!"
- 
-
-Naaman hearkened to him and hastened toward the Jordan,
- 
-
-And in the river seven times he immersed himself.
- 
-
-Naaman became whole and the leprosy disappeared;
- 
-
-Naaman became whole and clean as a child.
- 
-
-"God is One, the God of Israel," he cried out;
- 
-
+What good are riches and this beautiful world,<br/>
+What good are authority and power, when a man is leprous?<br/>
+But the commander Naaman is covered with leprosy,<br/>
+From leprosy completely white, as though covered with purulence.<br/>
+But the commander to the man of God hurries,<br/>
+Only from him hoping for a cure,<br/>
+With his entire caravan of clothing and gold.<br/>
+This, to the man of God, let it be a payment!<br/>
+Elisha said to him: to the Jordan go,<br/>
+And in the water, seven times to bathe.<br/>
+At his misfortune Naaman became angry:<br/>
+"A river clearer and larger, do we not have?"<br/>
+And quickly to his home, he wanted to return,<br/>
+But from this, his wise servant dissuaded him.<br/>
+"O Master," he said, "do not give up quickly.<br/>
+Behold, the Jordan is nearby; go and bathe!"<br/>
+Naaman hearkened to him and hastened toward the Jordan,<br/>
+And in the river seven times he immersed himself.<br/>
+Naaman became whole and the leprosy disappeared;<br/>
+Naaman became whole and clean as a child.<br/>
+"God is One, the God of Israel," he cried out;<br/>
 "He works glorious miracles in abundance!"
- 
 
 #### REFLECTION
 
@@ -113,7 +68,7 @@ To contemplate the Lord's miraculous walking on the water as though on dry land:
 #### HOMILY
 
 
-#### About humility as a precursor of glory [honor]
+##### About humility as a precursor of glory [honor]
 
 "…And humility goes before honors [glory]" (Proverbs 15:33).
 
