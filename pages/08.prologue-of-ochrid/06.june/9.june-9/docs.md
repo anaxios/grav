@@ -65,7 +65,7 @@ To contemplate the miraculous healing of the dumb and possessed man: *As they we
 #### HOMILY
 
 
-#### About those who love death
+##### About those who love death
 
 "All they that hate Me love death" (Proverbs 8:35).
 

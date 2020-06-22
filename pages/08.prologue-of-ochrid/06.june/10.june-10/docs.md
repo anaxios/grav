@@ -19,89 +19,36 @@ Both Alexander and Antonina were from Alexandria. Antonina was an honorable virg
 Bassian was born a pagan in Syracuse of prominent and wealthy pagan parents. He was educated in philosophy in Rome. By his earnest desire, he was baptized by the pious Elder Gordianus. This offended his parents; in order to escape their wrath, and in accordance with the command of Saint John the Theologian, who had appeared to him, Bassian traveled to Ravenna and visited Bishop Ursus, his kinsman. At the advice of the bishop, Bassian took up residence in the Church of the Holy Martyr Apollinarius outside the city. There he struggled long in labor, fasting and prayer. When the bishop of the city of Lodi in Liguria died, Bassian was elected, according to a revelation in a dream, even though he did not desire it. He was consecrated bishop by Ambrose of Milan and Ursus of Ravenna. Bassian possessed a great gift of healing and could also resurrect the dead. Bassian was present at St. Ambrose's final moments and heard from his mouth how he saw the Lord Jesus Christ. Bassian lived in labor and asceticism to an old age, and in the ninetieth year of his life he died and was translated into the Kingdom of God in about the year 409 A.D. Bassian's holy relics remained miracle-working, to witness to the power of God and the greatness of God's saints.
 
 
-**HYMN OF PRAISE
+#### HYMN OF PRAISE
  
-**
-**SAINT BASSIAN
-** 
+##### SAINT BASSIAN
 
-Holy Bassian loved the Lord;
- 
-
-Holy Bassian to the Lord prayed.
-
-
-Upon him, the merciful Lord bestowed grace:
- 
-
-What all men do, Bassian perceived,
- 
-
-How the demons dance an evil dance,
- 
-
-And how, men to evil, they incite.
- 
-
-Once Bassian through the town walked
- 
-
-And saw a merchant as he falsely weighed.
- 
-
-On the scale stood a devil black,
- 
-
-Wrongly weighing and falsely counting.
-
-
-The merchant was happy to cheat everyone
-
-
-And with a few goods to make great profit!
- 
-
-Holy Bassian to the market walked
- 
-
-And to the merchant cried out: "Open your eyes!
- 
-
-In easy gain, do not rejoice!
- 
-
-Open your eyes! Behold your partner!"
- 
-
-With that the merchant's eyes were opened;
- 
-
-He saw the devil and fell backward,
- 
-
-Filled with fear, filled with trembling.
- 
-
-All gain he saw for him was cursed,
- 
-
-And began to sob bitterly as he before the saint knelt.
-
-
-To Bassian he said: "Pray for me."
- 
-
-"Repent, Repent!" Bassian instructed him,
- 
-
-"That your soul eternally not suffer."
- 
-
-From his accomplice, the devil, money he had received,
- 
-
+Holy Bassian loved the Lord;<br/>
+Holy Bassian to the Lord prayed.<br/>
+Upon him, the merciful Lord bestowed grace:<br/>
+What all men do, Bassian perceived,<br/>
+How the demons dance an evil dance,<br/>
+And how, men to evil, they incite.<br/>
+Once Bassian through the town walked<br/>
+And saw a merchant as he falsely weighed.<br/>
+On the scale stood a devil black,<br/>
+Wrongly weighing and falsely counting.<br/>
+The merchant was happy to cheat everyone<br/>
+And with a few goods to make great profit!<br/>
+Holy Bassian to the market walked<br/>
+And to the merchant cried out: "Open your eyes!<br/>
+In easy gain, do not rejoice!<br/>
+Open your eyes! Behold your partner!"<br/>
+With that the merchant's eyes were opened;<br/>
+He saw the devil and fell backward,<br/>
+Filled with fear, filled with trembling.<br/>
+All gain he saw for him was cursed,<br/>
+And began to sob bitterly as he before the saint knelt.<br/>
+To Bassian he said: "Pray for me."<br/>
+"Repent, Repent!" Bassian instructed him,<br/>
+"That your soul eternally not suffer."<br/>
+From his accomplice, the devil, money he had received,<br/>
 But the devil his soul had sought in return.
- 
 
 #### REFLECTION
 
@@ -121,7 +68,7 @@ To contemplate the miraculous healing of the man with a withered hand: *A man wi
 #### HOMILY
 
 
-#### About how that of which he is afraid befalls the sinner
+##### About how that of which he is afraid befalls the sinner
 
 "The fear of the wicked, it shall come upon him; but the desire of the righteous shall be granted" (Proverbs 10:24).
 
