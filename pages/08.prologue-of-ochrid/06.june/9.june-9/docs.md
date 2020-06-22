@@ -15,81 +15,33 @@ Cyril was of noble birth and a close relative of Theophilus, Patriarch of Alexan
 Cyril was of an aristocratic family and was born and educated in Moscow. He was tonsured a monk in the Simonov Monastery, where he lived a life of asceticism that amazed the other monks. In order to conceal his virtues he pretended insanity. He personally spoke with St. Sergius of Radonezh and received many beneficial instructions from him. Against his will he was elected abbot of Simonov monastery. He prayed constantly to the All-Holy Birth-giver of God to show him the way whereby he could live a life of asceticism in silence. One night he saw a great light and heard a voice: "Cyril, depart from here and go to White Lake!" And indeed, he departed from the Simonov Monastery with one companion, went to the vicinity of White Lake, and there, in the dense pine forest, began to live a life of asceticism. In time, this hermitage was transformed into a large monastery. The Venerable Cyril received the great gift of miracle-working from God; he cured the sick and worked many other miracles. He died in the year 1429 A.D., in his ninetieth year, and took up his habitation with the Lord, Whom he had ardently loved his entire life.
 
 
-**HYMN OF PRAISE
+#### HYMN OF PRAISE
  
-**
-**ST. CYRIL OF ALEXANDRIA
-####  
-**
-Saint Cyril, unwavering,
- 
+##### ST. CYRIL OF ALEXANDRIA
 
-By his faith, amazed the universe.
- 
-
-With the honorable Cross the hero guarded himself;
- 
-
-Against the enemies of the Church he took up arms,
- 
-
-Against the Jews, the Archenemies of the Cross.
-
-
-He attacked the Novatianists,
- 
-
-Who took pride in themselves,
- 
-
-Who on mercy set a limit,
- 
-
-Who condemned sinners prior to the Judgment,
- 
-
-And who denied the power of God to work miracles.
- 
-
-But Cyril shone the most
- 
-
-When he rose up against Nestorius,
- 
-
-The destroyer of the Orthodox Faith,
- 
-
-The blasphemer against the Mother of God.
- 
-
-The Mother of God assisted Cyril
- 
-
-To overcome every diabolical power,
- 
-
-And to cleanse the Holy Church of chaff.
- 
-
-All occurred with the help of the Virgin Mother of God.
- 
-
-Cyril was a knight of Orthodoxy;
- 
-
-That is why the Church glorifies him
- 
-
-And to him prays without ceasing,
- 
-
-From diabolical uprisings, to protect us.
- 
-
-O Cyril, star among the stars,
- 
-
+Saint Cyril, unwavering,<br/>
+By his faith, amazed the universe.<br/>
+With the honorable Cross the hero guarded himself;<br/>
+Against the enemies of the Church he took up arms,<br/>
+Against the Jews, the Archenemies of the Cross.<br/>
+He attacked the Novatianists,<br/>
+Who took pride in themselves,<br/>
+Who on mercy set a limit,<br/>
+Who condemned sinners prior to the Judgment,<br/>
+And who denied the power of God to work miracles.<br/>
+But Cyril shone the most<br/>
+When he rose up against Nestorius,<br/>
+The destroyer of the Orthodox Faith,<br/>
+The blasphemer against the Mother of God.<br/>
+The Mother of God assisted Cyril<br/>
+To overcome every diabolical power,<br/>
+And to cleanse the Holy Church of chaff.<br/>
+All occurred with the help of the Virgin Mother of God.<br/>
+Cyril was a knight of Orthodoxy;<br/>
+That is why the Church glorifies him<br/>
+And to him prays without ceasing,<br/>
+From diabolical uprisings, to protect us.<br/>
+O Cyril, star among the stars,<br/>
 By your prayers, help us.
  
 
