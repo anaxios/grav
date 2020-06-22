@@ -20,7 +20,7 @@ This saint is commemorated on February 8, and on that date his life is recounted
 
 
 #### HYMN OF PRAISE
-  
+
 ##### SAINT EPHRAIM
 
 Saint Ephraim, brimming with piety,<br/>
@@ -39,7 +39,7 @@ By miraculous healing power,<br/>
 God glorified him who glorified God.<br/>
 Ephraim, star of the glorious past,<br/>
 Ephraim, glory of the Orthodox Church.<br/>
- 
+
 #### REFLECTION
 
 Fear in suffering and fear of not suffering--this is one and the same fear, and it signifies the fear of a spiritual man as to whether or not God has distanced Himself from him. When St. Catherine suffered many difficult tortures, the Lord appeared to her and she asked Him: "Where were You until now, O Lord, to comfort me in so many sufferings?" The Lord answered her: "I was here in your heart." But as great a fear can come upon a spiritual man when sufferings do not come his way for a long time. A monk once entered a church in Alexandria and saw a woman kneeling before the icon of the Savior, shedding tears and crying out to the Lord: "You have abandoned me, O Lord, O Merciful One, have mercy on me!" Following the prayer the monk asked her: "Who has wronged you that you so bitterly complain to God?" The woman replied: "Up to now no one has wronged me--that is why I am weeping--because God has abandoned me and for three years has not visit me with any sufferings. During this time, neither have I been sick, nor my son, nor have any of my household livestock perished."
