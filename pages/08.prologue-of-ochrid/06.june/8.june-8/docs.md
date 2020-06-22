@@ -19,59 +19,27 @@ St. Zosimas was bom in the village of Synda, in the proximity of the town of Tyr
 This saint is commemorated on February 8, and on that date his life is recounted. However, June 8 commemorates the translation of his relics from Heraklion to Euchaita. Before his martyrdom, Saint Theodore left the following instructions in his will to Varus, his servant: "Bury my body in Euchaita on the estate of my ancestors." St. Anastasius of Sinai wrote about a miracle of the icon of St. Theodore: In the town of Karsat, near Damascus, there was a church dedicated to St. Theodore Stratelates. When the Saracens conquered Damascus, a group of Saracens took up residence in this church with their wives and children. There was a fresco of the image of St. Theodore on the wall. One of the Saracens shot an arrow and struck the image of the saint in the face. At once blood flowed from the image. Soon after that, the entire group of those Saracens perished in the church. St. Anastasius said that he personally was in that church and saw the image of the saint on the wall and traces of congealed blood.
 
 
-**HYMN OF PRAISE
-####  
-**
-**SAINT EPHRAIM
-####  
-**
-Saint Ephraim, brimming with piety,
+#### HYMN OF PRAISE
+  
+##### SAINT EPHRAIM
 
-
-Was a soldier against evildoers,
+Saint Ephraim, brimming with piety,<br/>
+Was a soldier against evildoers,<br/>
+Against heresies sinful and foolish.<br/>
+He was a soldier of the Church--<br/>
+The Church that Christ purchased and eternally glorified<br/>
+By His precious Blood shed on the Cross.<br/>
+Ephrem guarded the flock from wolves<br/>
+And the nests of spiders he destroyed.<br/>
+Ephrem holy, chosen one of God,<br/>
+A light in Antioch, he was.<br/>
+The Church shown through his mouth<br/>
+As at the time of the glorious Chrysostom.<br/>
+By miraculous healing power,<br/>
+God glorified him who glorified God.<br/>
+Ephraim, star of the glorious past,<br/>
+Ephraim, glory of the Orthodox Church.<br/>
  
-
-Against heresies sinful and foolish.
-
-He was a soldier of the Church--
-
-
-The Church that Christ purchased and eternally glorified
- 
-
-By His precious Blood shed on the Cross.
-
-
-Ephrem guarded the flock from wolves
- 
-
-And the nests of spiders he destroyed.
- 
-
-Ephrem holy, chosen one of God,
- 
-
-A light in Antioch, he was.
- 
-
-The Church shown through his mouth
- 
-
-As at the time of the glorious Chrysostom.
- 
-
-By miraculous healing power,
- 
-
-God glorified him who glorified God.
- 
-
-Ephraim, star of the glorious past,
- 
-
-Ephraim, glory of the Orthodox Church.
- 
-
 #### REFLECTION
 
 Fear in suffering and fear of not suffering--this is one and the same fear, and it signifies the fear of a spiritual man as to whether or not God has distanced Himself from him. When St. Catherine suffered many difficult tortures, the Lord appeared to her and she asked Him: "Where were You until now, O Lord, to comfort me in so many sufferings?" The Lord answered her: "I was here in your heart." But as great a fear can come upon a spiritual man when sufferings do not come his way for a long time. A monk once entered a church in Alexandria and saw a woman kneeling before the icon of the Savior, shedding tears and crying out to the Lord: "You have abandoned me, O Lord, O Merciful One, have mercy on me!" Following the prayer the monk asked her: "Who has wronged you that you so bitterly complain to God?" The woman replied: "Up to now no one has wronged me--that is why I am weeping--because God has abandoned me and for three years has not visit me with any sufferings. During this time, neither have I been sick, nor my son, nor have any of my household livestock perished."
@@ -92,7 +60,7 @@ To contemplate the miraculous healing of the two blind men: *As Jesus moved on f
 #### HOMILY
 
 
-#### About the King of kings
+##### About the King of kings
 
 "By Me kings reign and princes decree justice. By Me princes rule and nobles, even all the judges of the earth. I love them that love Me" (Proverbs 8:15-17).
 
