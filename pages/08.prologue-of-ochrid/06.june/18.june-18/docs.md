@@ -20,77 +20,32 @@ Then Hadrian decreed cruel tortures for Leontius, but Leontius remained unwaveri
 Leontius was of Greek descent from the Peloponnese. He lived a life of asceticism sixty years in the Monastery of Dionysiou [Mt. Athos] and entered into rest in the year 1605 A.D., being eighty-five years of age.  It is said that this saint entered the monastery only once and only once did he leave the monastery in sixty full years. That is, he entered when he first went to Dionysiou and departed when they carried him out for burial. He possessed the miraculous gift of discernment (clairvoyance) and prophecy, and myrrh flowed from his relics after his repose.
 
 
-**HYMN OF PRAISE
-####  
-**
-**SAINT LEONTIUS
-####  
-**
-Leontius, with the heart of a lion:
- 
+#### HYMN OF PRAISE
 
-A lion's heart and a lion's name.
- 
+##### SAINT LEONTIUS
 
-Of his God, he was not ashamed
- 
-
-But, before all, confessed Christ--
- 
-
-The Savior of the world, Christ God.
- 
-
-Youth, strength and commander he scorned
- 
-
-For the sake of the truth of Christ crucified
- 
-
-And from death resurrected gloriously.
- 
-
-Flattered, honored, glorified and favored with gifts,
- 
-
-He, his God, did not deny.
- 
-
-Flogged, spat upon, scraped and crucified,
- 
-
-He, his God, did not deny.
- 
-
-But the greater the torment and mockery,
- 
-
-The flame of faith, the greater and brighter.
- 
-
-The Roman Empire and all the powers of hades
- 
-
-Against him had turned,
- 
-
-But he knew that alone he was not.
- 
-
-And that beside him stood Christ.
- 
-
-A pillar of stone amidst angry reeds,
- 
-
-A pillar of fire amidst slaves of darkness.
- 
-
-By his faith he amazed the people;
- 
-
+Leontius, with the heart of a lion:<br/>
+A lion's heart and a lion's name.<br/>
+Of his God, he was not ashamed<br/>
+But, before all, confessed Christ--<br/>
+The Savior of the world, Christ God.<br/>
+Youth, strength and commander he scorned<br/>
+For the sake of the truth of Christ crucified<br/>
+And from death resurrected gloriously.<br/>
+Flattered, honored, glorified and favored with gifts,<br/>
+He, his God, did not deny.<br/>
+Flogged, spat upon, scraped and crucified,<br/>
+He, his God, did not deny.<br/>
+But the greater the torment and mockery,<br/>
+The flame of faith, the greater and brighter.<br/>
+The Roman Empire and all the powers of hades<br/>
+Against him had turned,<br/>
+But he knew that alone he was not.<br/>
+And that beside him stood Christ.<br/>
+A pillar of stone amidst angry reeds,<br/>
+A pillar of fire amidst slaves of darkness.<br/>
+By his faith he amazed the people;<br/>
 To live eternally his life he gave.
- 
 
 #### REFLECTION
 
@@ -112,8 +67,7 @@ To contemplate the miraculous healing of the young man whom the devil tormented,
 
 #### HOMILY
 
-
-#### About God's indebtedness
+##### About God's indebtedness
 
 "He who has compassion on the poor lends to God and He will repay Him for his good deed" (Proverbs 19:17).
 
