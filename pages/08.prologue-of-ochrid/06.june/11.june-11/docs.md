@@ -22,58 +22,33 @@ The miracle consists of this: One night a monk was reading the Canon to the Moth
 
 #### HYMN OF PRAISE
 
-#### "IT IS TRULY MEET"
+##### "IT IS TRULY MEET"
 
-A monk at night, alone in church
-
-With fervent prayer dispelled the darkness from his soul
-
-All at once another monk arrived--about him, nothing unusual--
-
-And, like an experienced chanter, began to sing.
-
-Then the first monk began: "More Honorable ..."
-
-Glorifying the Mother of God, the Mother most glorious.
-
-To him, the miraculous guest spoke about this hymn of praise:
-
-"Among us," said he: "this hymn we sing differently.
-
-We do not begin as you do,
-
-But rather with 'It is truly Meet,' venerable father!"
-
-And the entire hymn "It Is Truly Meet" he recited.
-
-The first monk tried not to miss a word.
-
-"Now I breathe easier, O my virtuous brother.
-
-Your hymn, allow me to copy!"
-
-But no paper or even a pencil had he:
-
-The church is a place for prayer not for writing!
-
-Then the midnight guest over the church made the sign of the Cross,
-
-And on a stone with his finger he began to write.
-
-As on soft wax, on the stone he wrote;
-
-At this man the monk was amazed.
-
-To the unusual guest, the monk asked: "Who are you?"
-
-"My name is Gabriel. For you that should be enough."
-
-And straightway he disappeared. With great fear the monk
-
-Recognized the Archangel under the monastic robe.
-
-That which he wrote no one erased.
-
+A monk at night, alone in church<br/>
+With fervent prayer dispelled the darkness from his soul<br/>
+All at once another monk arrived--about him, nothing unusual--<br/>
+And, like an experienced chanter, began to sing.<br/>
+Then the first monk began: "More Honorable ..."<br/>
+Glorifying the Mother of God, the Mother most glorious.<br/>
+To him, the miraculous guest spoke about this hymn of praise:<br/>
+"Among us," said he: "this hymn we sing differently.<br/>
+We do not begin as you do,<br/>
+But rather with 'It is truly Meet,' venerable father!"<br/>
+And the entire hymn "It Is Truly Meet" he recited.<br/>
+The first monk tried not to miss a word.<br/>
+"Now I breathe easier, O my virtuous brother.<br/>
+Your hymn, allow me to copy!"<br/>
+But no paper or even a pencil had he:<br/>
+The church is a place for prayer not for writing!<br/>
+Then the midnight guest over the church made the sign of the Cross,<br/>
+And on a stone with his finger he began to write.<br/>
+As on soft wax, on the stone he wrote;<br/>
+At this man the monk was amazed.<br/>
+To the unusual guest, the monk asked: "Who are you?"<br/>
+"My name is Gabriel. For you that should be enough."<br/>
+And straightway he disappeared. With great fear the monk<br/>
+Recognized the Archangel under the monastic robe.<br/>
+That which he wrote no one erased.<br/>
 With heavenly fragrance the church was filled.
 
 #### REFLECTION
@@ -82,7 +57,6 @@ A true friend prays to God for his friend. A true friend is concerned for the sa
 
 
 #### CONTEMPLATION
-#### 
 
 To contemplate the miraculous healing of the blind and dumb man: *Then was brought to Him one possessed with a devil, blind and dumb: and He healed him, insomuch that the blind and dumb both spoke and saw* (St. Matthew 12:22):
 
@@ -93,8 +67,7 @@ To contemplate the miraculous healing of the blind and dumb man: *Then was broug
 
 #### HOMILY
 
-
-#### About the master and the slave
+##### About the master and the slave
 
 "He who spares his rod hates his son but he who loves him takes care to chastise him" (Proverbs 13:24).
 
