@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-<img src=Vintage-Peacock-Image-GraphicsFairy.jpg alt="Peacock" width=150x />
+<img src=Theotokos-oncloud-transparent.png alt="Theotokos-icon"  />
 
 ### My notebook on Orthodox topics
 Aν πεθάνεις, πριν πεθάνεις, δεν θα πεθάνεις, όταν πεθάνεις.<br/>
